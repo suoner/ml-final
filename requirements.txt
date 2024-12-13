@@ -1,0 +1,8 @@
+PyTDC
+rdkit
+pandas
+scikit-learn
+numpy
+matplotlib
+torch
+torchmetrics
